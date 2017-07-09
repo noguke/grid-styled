@@ -45,8 +45,10 @@
   },
   "dependencies": {
     "prop-types": "^15.5.10",
-    "styled-components": "^2.0.1",
     "styled-system": "^1.0.0-8"
+  },
+  "peerDependencies": {
+    "styled-components": "^2.0.1"
   },
   "ava": {
     "require": [
